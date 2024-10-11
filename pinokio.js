@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   version: "2.0",
   title: "video-background-removal",
-  description: "",
+  description: "remove or change any video background https://huggingface.co/spaces/innova-ai/video-background-removal",
   icon: "icon.webp",
   menu: async (kernel, info) => {
     let installed = info.exists("app/env")

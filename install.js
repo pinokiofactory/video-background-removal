@@ -5,7 +5,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://huggingface.co/spaces/innova-ai/video-background-removal app",
+          "git clone https://huggingface.co/spaces/cocktailpeanut/video-background-removal app",
         ]
       }
     },
